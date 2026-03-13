@@ -1,4 +1,3 @@
-Gold Market Analysis Dashboard
 This project presents a Power BI dashboard analyzing the gold market, focusing on price performance, technical indicators, and risk metrics.
 
 The goal of this dashboard is to provide a clear overview of how gold behaves as a financial asset by combining market data with data visualization techniques.
