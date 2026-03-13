@@ -27,4 +27,3 @@ This project was developed in collaboration with Rossana De Rose, focusing on fi
 File
 The dashboard is available as a .pbix file and can be opened using Power BI Desktop.
 
-Preview
